@@ -9670,7 +9670,7 @@ textarea.form-control {
   stroke-dashoffset: 0;
   -webkit-animation: loader-dash 1.5s ease-in-out infinite;
   animation: loader-dash 1.5s ease-in-out infinite;
-  stroke-linecap: round; }
+  stroke-linecap: round; }  
 
 @-webkit-keyframes loader-rotate {
   100% {
@@ -9703,3 +9703,5 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+    
